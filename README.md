@@ -21,4 +21,4 @@ Program that prints by console "Hello World". It has been programmed in Rust.
 
 ### Screenshots
 
-![rustimg](https://user-images.githubusercontent.com/116028548/199353703-5964c9a6-a538-41fd-a3bd-fa6ee4627117.jpg)
+![rustimg](https://user-images.githubusercontent.com/116028548/199353953-ad0ebbf4-421d-42da-bda7-1e9121d80631.jpg)
